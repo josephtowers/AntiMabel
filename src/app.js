@@ -26,6 +26,7 @@ var HelloWorldLayer = cc.Layer.extend({
 		return true;
 		
 	},
+    
 	creaMabel: function(){
 		
 		var mabel = new cc.Sprite(res.mabel_png);
